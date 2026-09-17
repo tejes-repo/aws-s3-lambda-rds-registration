@@ -1,0 +1,19 @@
+# AWS Lambda Environment Variables
+
+# Serverless Registration Application
+
+# Amazon RDS MySQL endpoint
+
+DB_HOST=your-rds-endpoint
+
+# RDS MySQL username
+
+DB_USER=admin
+
+# RDS MySQL password
+
+DB_PASSWORD=your-database-password
+
+# MySQL database name
+
+DB_NAME=regdb
