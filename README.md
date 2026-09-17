@@ -335,6 +335,4 @@ Possible improvements include:
 
 ## Author
 
-**Vikas Jagtap**
-
-GitHub: `https://github.com/vikasjagtap9696`
+**P TEJESWAR REDDY**
